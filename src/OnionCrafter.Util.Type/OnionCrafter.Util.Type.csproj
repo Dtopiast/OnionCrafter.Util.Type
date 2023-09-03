@@ -22,7 +22,8 @@
     <PackageLicenseFile>LICENSE.txt</PackageLicenseFile>
     <PackageRequireLicenseAcceptance>True</PackageRequireLicenseAcceptance>
     <PackageTags>util, type-validation,   extension-methods, type-safety</PackageTags>
-    <PackageProjectUrl>https://github.com/Dtopiast/OnionCrafter.Util.Type</PackageProjectUrl>
+    <PackageProjectUrl></PackageProjectUrl>
+    <RepositoryUrl>https://github.com/Dtopiast/OnionCrafter.Util.Type</RepositoryUrl>
   </PropertyGroup>
 
   <ItemGroup>
