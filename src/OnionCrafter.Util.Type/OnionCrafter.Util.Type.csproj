@@ -21,6 +21,8 @@
     <PackageReadmeFile>README.md</PackageReadmeFile>
     <PackageLicenseFile>LICENSE.txt</PackageLicenseFile>
     <PackageRequireLicenseAcceptance>True</PackageRequireLicenseAcceptance>
+    <PackageTags>util, type-validation,   extension-methods, type-safety</PackageTags>
+    <PackageProjectUrl>https://github.com/Dtopiast/OnionCrafter.Util.Type</PackageProjectUrl>
   </PropertyGroup>
 
   <ItemGroup>
